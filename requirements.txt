@@ -1,0 +1,32 @@
+# BiscoFootball AI Automation — Dependencies
+
+# Core
+python-dotenv==1.1.0
+apscheduler==3.11.0
+
+# Playwright (ChatGPT browser automation)
+playwright==1.52.0
+
+# Telegram
+python-telegram-bot==22.2
+
+# Instagram (Meta Graph API)
+requests==2.32.3
+
+# YouTube
+google-api-python-client==2.175.0
+google-auth-oauthlib==1.2.1
+google-auth-httplib2==0.2.0
+
+# Football data
+feedparser==6.0.11
+beautifulsoup4==4.13.4
+
+# Video
+ffmpeg-python==0.2.0
+
+# Logging
+loguru==0.7.3
+
+# Async
+aiohttp==3.11.18

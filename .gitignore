@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.env
+.venv/
+env/
+venv/
+ENV/
+
+# Sensitive credentials & tokens
+client_secret.json
+youtube_token.json
+
+# Generated media and content directories
+content/
+data/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# IDE specific files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+*~
+
+# WhatsApp raw media files
+*.jpeg
+*.jpg
+*.png
+*.mp4
+*.mp3
