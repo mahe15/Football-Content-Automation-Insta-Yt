@@ -1,5 +1,11 @@
 # BiscoFootball AI Automation
 
+**Fully automated AI football network. Gathers trends, scores with ChatGPT, generates infographics/reels via Playwright + FFmpeg, and uploads to Instagram/YouTube.**
+
+<p align="center">
+  <img src="demo.gif" alt="BiscoFootball Demo" width="300">
+</p>
+
 BiscoFootball AI Automation is a fully automated, schedule-driven content creation and publishing pipeline for football content networks. The system gathers trending news, player statistics, and historical football records, uses AI to research and score content for virality, designs infographic cards, compiles video reels/shorts with dynamic audio, uploads them to Instagram and YouTube, and offers a complete remote control system via Telegram.
 
 ---
